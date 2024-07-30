@@ -1,0 +1,305 @@
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 18:14:48] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:14:49] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:14:52] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:14:54] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:14:56] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:14:58] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:15:00] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:15:00] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:15:02] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:15:04] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:15:44] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:15:46] "POST /process HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 18:17:26] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:17:28] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:17:29] "POST /process HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 18:23:01] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:23:03] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:23:23] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:23:24] "POST /process HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/text_extraction.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 18:36:53] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:36:55] "POST /process HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 18:39:55] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:39:57] "[35m[1mPOST /process HTTP/1.1[0m" 202 -
+127.0.0.1 - - [29/Jul/2024 18:40:02] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:40:07] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:40:12] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:40:17] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 18:40:22] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:40:27] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:40:32] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:40:37] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 18:40:42] "GET /summaries/5809167826444111285 HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 18:52:34] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:52:37] "[35m[1mPOST /process HTTP/1.1[0m" 202 -
+127.0.0.1 - - [29/Jul/2024 18:52:42] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:52:47] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:52:52] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:52:57] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 18:53:02] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:53:07] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:53:12] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:53:17] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 18:53:22] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:54:12] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:54:12] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:54:18] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:54:18] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:56:06] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:56:06] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:56:06] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:56:48] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:56:48] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:56:48] "GET /summaries/bf070e5450700ca4233547b0edbb66a7 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:58:58] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:58:59] "[35m[1mPOST /process HTTP/1.1[0m" 202 -
+127.0.0.1 - - [29/Jul/2024 18:59:04] "GET /summaries/69284695895790fd79f8b56e11543e80 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:59:09] "GET /summaries/69284695895790fd79f8b56e11543e80 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:59:14] "GET /summaries/69284695895790fd79f8b56e11543e80 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 18:59:19] "GET /summaries/69284695895790fd79f8b56e11543e80 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 18:59:24] "GET /summaries/69284695895790fd79f8b56e11543e80 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 18:59:29] "GET /summaries/69284695895790fd79f8b56e11543e80 HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 19:37:05] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:37:07] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:37:11] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:37:13] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:37:15] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:37:23] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:37:25] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:37:25] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:37:27] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 19:37:46] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:37:48] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:37:49] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:07] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:39:09] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:10] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:11] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:12] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:14] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:14] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:39:14] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 19:40:17] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:40:18] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:40:20] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:40:21] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:41:07] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:41:09] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+127.0.0.1 - - [29/Jul/2024 19:42:07] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:42:09] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 19:42:36] "OPTIONS /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 19:42:37] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+Starting Flask server...
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+Starting Flask server...
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 20:50:50] "OPTIONS /process HTTP/1.1" 200 -
+Processing paper from URL: https://arxiv.org/pdf/2402.13116
+Text processing completed
+127.0.0.1 - - [29/Jul/2024 20:50:52] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:52:52] "OPTIONS /process HTTP/1.1" 200 -
+Processing paper from URL: https://arxiv.org/pdf/2402.13116
+Text processing completed
+127.0.0.1 - - [29/Jul/2024 20:52:53] "POST /process HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+Starting Flask server...
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 20:55:36] "OPTIONS /process HTTP/1.1" 200 -
+Processing paper from URL: https://arxiv.org/pdf/2402.13116
+Text processing completed, summary generation started
+127.0.0.1 - - [29/Jul/2024 20:55:38] "[35m[1mPOST /process HTTP/1.1[0m" 202 -
+127.0.0.1 - - [29/Jul/2024 20:55:43] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:55:48] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:55:53] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:55:58] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:03] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 20:56:08] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:13] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:18] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:23] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:28] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:33] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:38] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:56:43] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 20:56:48] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:58:47] "OPTIONS /process HTTP/1.1" 200 -
+Processing paper from URL: https://arxiv.org/pdf/2402.13116
+Text processing completed, summary generation started
+127.0.0.1 - - [29/Jul/2024 20:58:48] "[35m[1mPOST /process HTTP/1.1[0m" 202 -
+127.0.0.1 - - [29/Jul/2024 20:58:53] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:58:58] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:03] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:08] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:13] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:18] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 20:59:23] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:28] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:33] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:38] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:43] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:50] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 20:59:55] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:00:00] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 21:00:05] "GET /summaries/8046833099837493577 HTTP/1.1" 200 -
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+Starting Flask server...
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+Starting Flask server...
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+Starting Flask server...
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+ * Detected change in '/Users/netraranga/Desktop/Projects/Research Paper Summarizer/app.py', reloading
+ * Restarting with stat
+Starting Flask server...
+ * Debugger is active!
+ * Debugger PIN: 144-477-627
+127.0.0.1 - - [29/Jul/2024 21:02:57] "OPTIONS /process HTTP/1.1" 200 -
+Processing paper from URL: https://arxiv.org/pdf/2402.13116
+Text processing completed, summary generation started
+127.0.0.1 - - [29/Jul/2024 21:02:58] "[35m[1mPOST /process HTTP/1.1[0m" 202 -
+127.0.0.1 - - [29/Jul/2024 21:03:03] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:08] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:13] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:18] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:23] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:28] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 21:03:33] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:38] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:43] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:48] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:53] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:03:58] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:04:03] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+HTTP Request: POST https://fsodnaopenai2.openai.azure.com//openai/deployments/gpt-4o/chat/completions?api-version=2023-12-01-preview "HTTP/1.1 200 OK"
+127.0.0.1 - - [29/Jul/2024 21:04:08] "GET /summaries/4095db3d98cc60ad1e7407297c462953 HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:04:12] "OPTIONS /process HTTP/1.1" 200 -
+Returning cached result for URL: https://arxiv.org/pdf/2402.13116
+127.0.0.1 - - [29/Jul/2024 21:04:12] "POST /process HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jul/2024 21:04:23] "OPTIONS /process HTTP/1.1" 200 -
+Returning cached result for URL: https://arxiv.org/pdf/2402.13116
+127.0.0.1 - - [29/Jul/2024 21:04:23] "POST /process HTTP/1.1" 200 -
